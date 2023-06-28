@@ -9,7 +9,8 @@
  <img src="https://user-images.githubusercontent.com/89546195/215603168-d6220635-aca5-413e-a136-78f33a7f8cc5.jpg"  width=160% height=150%>
 
  ### Check the Algorithm and simulation to calculate the Ramp up period of the industry:-
- https://github.com/prathameshk30/PySpark-Projects-Big-Data/blob/main/Algorithm_inference.ipynb
+[ https://github.com/prathameshk30/PySpark-Projects-Big-Data/blob/main/Algorithm_inference.ipynb](https://github.com/prathameshk30/PySpark-Projects-Big-Data/blob/main/Algorithm_inference%20(1).ipynb)
+ 
  ### Simulation of the orders data:-
  <img src="https://github.com/prathameshk30/PySpark-Projects-Big-Data/assets/89546195/c35a4023-e769-4012-b6d9-237df1bb900c"  width=100% height=150%>
 
