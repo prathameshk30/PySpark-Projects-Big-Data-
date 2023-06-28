@@ -1,4 +1,4 @@
-# PySpark-Projects-Big-Data
+# PySpark-Projects-Big-Data-ETL
 ## (Big Data | PySpark | DataBricks | AWS)
 ## This repo contains all the Big Data Project using PySpark 
 
@@ -7,3 +7,6 @@
 #### The main goal is to forecast mixed data of varius stores using repartition principle of spark. 
 
  <img src="https://user-images.githubusercontent.com/89546195/215603168-d6220635-aca5-413e-a136-78f33a7f8cc5.jpg"  width=60% height=50%>
+
+ ### Check the Algorithm and simulation to calculate the Ramp up period of the industry:-
+ https://github.com/prathameshk30/PySpark-Projects-Big-Data/blob/main/Algorithm_inference.ipynb
