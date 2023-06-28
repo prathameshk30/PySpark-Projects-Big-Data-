@@ -12,6 +12,7 @@
  https://github.com/prathameshk30/PySpark-Projects-Big-Data/blob/main/Algorithm_inference.ipynb
  ### Simulation of the orders data:-
  <img src="https://github.com/prathameshk30/PySpark-Projects-Big-Data/assets/89546195/c35a4023-e769-4012-b6d9-237df1bb900c"  width=100% height=150%>
+
  ### Ramp up period:-
  <img  src="https://github.com/prathameshk30/PySpark-Projects-Big-Data/assets/89546195/79f0dc37-b29b-43f1-b8b6-dcadc83655f9" width=100% height=150%>
 
