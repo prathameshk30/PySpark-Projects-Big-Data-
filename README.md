@@ -2,7 +2,7 @@
 ## (Big Data | PySpark | DataBricks | AWS)
 ## This repo contains all the Big Data Project using PySpark 
 
-### Project 1- Multiple Time series Forecasting
+### Multiple Time series Forecasting
 #### This project contains the multiple time series forecasting using the Pyspark on Databricks and using data from AWS S3. Is  a type of Ad-Hoc analysis for data stored in AWS S3 datalake. The ML model for forecasting used is Facebook Prophet and with all the variable parameters.
 #### The main goal is to forecast mixed data of varius stores using repartition principle of spark. 
 
