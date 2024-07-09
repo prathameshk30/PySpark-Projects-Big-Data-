@@ -1,4 +1,4 @@
-# PySpark-Projects-Big-Data-ETL
+# PySpark Projects (Big Data ETL, Azure, AWS)
 ## (Big Data | PySpark | DataBricks | AWS)
 ## This repo contains all the Big Data Project using PySpark 
 
